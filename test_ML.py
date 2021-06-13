@@ -16,4 +16,5 @@ print("Hello World")
 
 # COMMAND ----------
 
-
+# MAGIC %print 
+# MAGIC print("hello world!!!")
