@@ -3,4 +3,4 @@ print("Note1")
 
 # COMMAND ----------
 
-print("Hello World...")
+print("Hello World... :)")
